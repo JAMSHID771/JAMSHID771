@@ -1,10 +1,11 @@
 # Hi there, I'm Jamshid 👋  
 
 ## 🚀 About Me:  
-- 👨‍💻 Passionate about coding and open-source.  
-- 🎯 Always learning new technologies.  
-- 🌍 Exploring the world of programming.  
-- 💡 Interested in Backend Development & PHP.  
+👋 Hi, I’m Jamshid  
+- 👀 I’m interested in backend development, especially PHP and Laravel.  
+- 🌱 I’m currently improving my skills in PHP, Laravel, and MySQL.  
+- 👾 I’m looking to collaborate on projects related to Laravel and PHP.  
+
 
 ## 🛠 Tech Stack:  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
