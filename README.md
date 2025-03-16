@@ -1,4 +1,16 @@
-# Hi there, I'm Jamshid 👋  
+<style>
+  @keyframes move {
+    0% { transform: translateX(-100%); }
+    50% { transform: translateX(50%); }
+    100% { transform: translateX(100%); }
+  }
+
+  .animated-text {
+    animation: move 5s ease-in-out infinite;
+  }
+</style>
+
+<p class="animated-text">Hi there, I'm Jamshid 👋</p>
 
 ## 🚀 About Me:  
 👋 Hi, I’m Jamshid  
