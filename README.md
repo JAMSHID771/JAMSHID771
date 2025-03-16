@@ -1,16 +1,29 @@
-<style>
-  @keyframes move {
-    0% { transform: translateX(-100%); }
-    50% { transform: translateX(50%); }
-    100% { transform: translateX(100%); }
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Text</title>
+  <style>
+    @keyframes move {
+      0% { transform: translateX(-100%); }
+      50% { transform: translateX(50%); }
+      100% { transform: translateX(100%); }
+    }
 
-  .animated-text {
-    animation: move 5s ease-in-out infinite;
-  }
-</style>
+    .animated-text {
+      animation: move 5s ease-in-out infinite;
+      font-size: 24px;
+      font-weight: bold;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <p class="animated-text">Hi there, I'm Jamshid 👋</p>
+</body>
+</html>
 
-<p class="animated-text">Hi there, I'm Jamshid 👋</p>
 
 ## 🚀 About Me:  
 👋 Hi, I’m Jamshid  
