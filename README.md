@@ -1,3 +1,4 @@
+![Animated Text](your-animation.gif)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,16 +7,23 @@
   <title>Animated Text</title>
   <style>
     @keyframes move {
-      0% { transform: translateX(-100%); }
-      50% { transform: translateX(50%); }
-      100% { transform: translateX(100%); }
+      0% {
+        transform: translateX(-100%);
+      }
+      50% {
+        transform: translateX(50%);
+      }
+      100% {
+        transform: translateX(100%);
+      }
     }
 
     .animated-text {
       animation: move 5s ease-in-out infinite;
-      font-size: 24px;
+      font-size: 2rem;  /* Matn hajmini kattalashtirish */
       font-weight: bold;
       color: #333;
+      display: inline-block;
     }
   </style>
 </head>
