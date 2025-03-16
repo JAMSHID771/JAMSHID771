@@ -1,7 +1,5 @@
 # Jamshid's Profile
 
-![Animated Text](https://github.com/yourusername/yourrepo/blob/main/your-animation.gif)
-
 ## 🚀 About Me:  
 👋 Hi, I’m Jamshid  
 - 👀 I’m interested in backend development, especially PHP and Laravel.  
