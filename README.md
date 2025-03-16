@@ -1,6 +1,6 @@
 # Jamshid's Profile
 
-![Animated Text](https://path-to-your-animation.gif)
+![Animated Text](https://github.com/yourusername/yourrepo/blob/main/your-animation.gif)
 
 ## 🚀 About Me:  
 👋 Hi, I’m Jamshid  
