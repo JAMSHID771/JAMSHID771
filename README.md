@@ -1,5 +1,3 @@
-# Jamshid's Profile
-
 ## 🚀 About Me:  
 👋 Hi, I’m Jamshid  
 - 👀 I’m interested in backend development, especially PHP and Laravel.  
